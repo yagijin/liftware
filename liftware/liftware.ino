@@ -1,5 +1,5 @@
 //2019/12/08 手の震えを軽減するスプーンの作成（簡単のため今回は一軸）
-//This code is written by Jin Yagi.
+//This code was written by Jin Yagi.
 
 #include <Servo.h>
 #include <Wire.h>
