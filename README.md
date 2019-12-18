@@ -1,5 +1,5 @@
 # liftware  
-手が震える人に向けたスプーンである，GoogleのLiftwareを自分で作ってみた．  
+手が震える人に向けたスプーンである，GoogleのLiftwareを自分で作ってみました．  
 
 # liftwareとは  
 https://youtu.be/p9oc91GZguA  
