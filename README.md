@@ -23,3 +23,6 @@ LiftwareはGoogleのデバイスで，手が震えて食事に支障が出る方
 ## 実際の動画  
 
 
+
+## 震えの振動が打ち消されている様子  
+<img width="691" alt="serialplot" src="https://user-images.githubusercontent.com/29916489/71187904-5a77f700-22c3-11ea-80fb-a17e7e9bfcb9.png">
